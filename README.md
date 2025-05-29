@@ -1,4 +1,4 @@
-## Hi there 👋
+##안녕하세요!
 
 <!--
 **Jung-eon1018/Jung-eon1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
